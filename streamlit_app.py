@@ -1,5 +1,8 @@
 import json
 import os
+import io 
+import pdf2image
+import base64
 from typing import List
 
 import networkx as nx
