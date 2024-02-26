@@ -9,6 +9,7 @@ Connect with me on social media and explore my work:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/iamsamkhan)
 [![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@iamsamkhan)
 [![Twitter](https://img.shields.io/twitter/follow/iamsamkhan__?style=social)](https://twitter.com/iamsamkhan__)
+[![Discord](https://img.shields.io/badge/Discord-iamsamkhan-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/iamsamkhan)
 [![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam_khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
 The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
 
