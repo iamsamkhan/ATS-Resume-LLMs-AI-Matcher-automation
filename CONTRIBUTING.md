@@ -1,6 +1,6 @@
 # Contributing to Resume-Matcher on GitHub
 
-Thank you for taking the time to contribute to [Resume-Matcher](https://github.com/iamsamkhan/ATS-AI-resume-automation.git).
+Thank you for taking the time to contribute to [Resume-Matcher](github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git).
 
 We want you to have a great experience making your first contribution.
 
@@ -42,12 +42,12 @@ Follow these steps to set up the environment and run the application.
 
 ## How to install
 
-1. Fork the repository [here](https://github.com/iamsamkhan/ATS-AI-resume-automation/fork).
+1. Fork the repository [here](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation/fork).
 
 2. Clone the forked repository.
 
    ```bash
-   git clone https://github.com/iamsamkhan/ATS-AI-resume-automation.git
+   git clone github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git
    cd Resume-Matcher
    ```
 
