@@ -215,7 +215,7 @@ with st.sidebar:
     st.image('Assets/img/header_image.png')
     st.subheader('Free and Open Source ATS to help your resume pass the screening stage.')
     st.markdown('Check the website [www.resumematcher.fyi](https://www.resumematcher.fyi/)')
-    st.markdown('Give Resume Matcher a ⭐ on [GitHub](https://github.com/iamsamkhan/ATS-AI-resume-automation.git)')
+    st.markdown('Give Resume Matcher a ⭐ on [GitHub](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git)')
     badge(type="github", name="ATS-AI-resume-automation")
     st.markdown('For updates follow me on Twitter.')
     badge(type="twitter", name="iamsamkhan__")
