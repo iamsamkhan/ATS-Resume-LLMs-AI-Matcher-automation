@@ -240,3 +240,5 @@ Take the leap, contribute, and let's grow together! 🚀
 
 
 ![Alt Text](UI-Mockup\mockup_1.1.png)
+
+![Mockup 1.1](UI-Mockup/mockup_1.1.png)
