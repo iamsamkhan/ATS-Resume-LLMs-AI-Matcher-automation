@@ -73,12 +73,12 @@ The process is as follows:
 
 Follow these steps to set up the environment and run the application.
 
-1. Fork the repository [here](https://github.com/iamsamkhan/ATS-AI-resume-automation/fork).
+1. Fork the repository [here](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation/fork).
 
 2. Clone the forked repository.
 
    ```bash
-   git clone https://github.com/iamsamkhan/ATS-AI-resume-automation.git
+   git clone https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git
    cd Resume-Matcher
    ```
 
